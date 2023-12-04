@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOQpVMlpTgTERyGikSD2EFcA1opnFxAqvz3bx14ghXFKSd70xe/mcHAc4r8BGBQKcrWod5p4WS3P7fARe8giGg==",
+  "success": true,
+  "projectFilePath": "D:\\DataImporter\\DataImporter\\DataImporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obaidulhaque.sarker\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\obaidulhaque.sarker\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

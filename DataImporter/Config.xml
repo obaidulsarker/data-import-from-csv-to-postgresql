@@ -1,0 +1,13 @@
+﻿<xml encoding="UTF8">
+  <configuration>
+    <appsettings>
+      <servername>localhost</servername>
+      <port>5433</port>
+      <username>postgres</username>
+      <password>biTS@#123</password>
+      <database>realtime_meteo</database>
+      <csv-file-path>D:\data</csv-file-path>
+      <csv-file-backup-path>D:\data-backup/</csv-file-backup-path>
+    </appsettings>
+  </configuration>
+</xml>
